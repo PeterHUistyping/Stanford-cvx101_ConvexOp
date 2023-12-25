@@ -20,3 +20,19 @@ Slides for the lecture at ``book/docs/scipy22_slides``
 ## Projects
 
 See ``docs/``
+
+**Intro to Python**
+
+See ``docs/python_intro``
+
+- Basics
+- CVXPY MSE
+  - constraint.dual_value
+  -  $λ^{*} = \frac{dM^{*}}{d c}$, c is the const in the constraint requirements.
+- Data Structures
+- Python namespaces
+- Plotting
+
+**SVM**
+
+See ``docs/intro``
