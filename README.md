@@ -13,9 +13,9 @@ use CVXPY to specify and solve convex optimization problems, with an emphasis on
    We recommend Python 3.10 and CVXPY 1.3.
 3. Test your CVXPY installation by running ``test.py`` in the repository.
 
-## Added features
+## Slides
 
-Slides for the lecture at ``book/docs/scipy22_slides``
+for the lecture, see ``book/docs/scipy22_slides``
 
 ## Projects
 
