@@ -15,7 +15,7 @@ use CVXPY to specify and solve convex optimization problems, with an emphasis on
 
 ## Added features
 
-Slides for the lecture at ``slides/``
+Slides for the lecture at ``book/docs/scipy22_slides``
 
 ## Projects
 
