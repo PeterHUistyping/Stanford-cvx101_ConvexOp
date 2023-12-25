@@ -15,4 +15,8 @@ use CVXPY to specify and solve convex optimization problems, with an emphasis on
 
 ## Added features
 
-Slides for the lecture at ./slides/
+Slides for the lecture at ``slides/``
+
+## Projects
+
+See ``docs/``
