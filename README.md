@@ -53,3 +53,14 @@ $$
 
 **Control in linear dynamical system**
 
+
+**Image Inpainting**
+
+- Reduce the overall total variance 
+
+$$\mathop{\bf tv}(U) =
+\sum_{i=1}^{m-1} \sum_{j=1}^{n-1}
+\left\| \left[ \begin{array}{c}
+ U_{i+1,j}-U_{ij}\\ U_{i,j+1}-U_{ij} \end{array} \right] \right\|_2.$$
+
+![inpainting](./book/docs/intro/inpainting.png)
