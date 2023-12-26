@@ -50,3 +50,6 @@ $$
 - Regularization Path
 
 ![reg_path](./book/docs/intro/svm_reg.svg)
+
+**Control in linear dynamical system**
+
