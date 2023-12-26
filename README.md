@@ -33,6 +33,11 @@ See ``docs/python_intro``
 - Python namespaces
 - Plotting
 
-**SVM**
+**SVM Classifier**
 
 See ``docs/intro``
+
+- average hinge loss + $\ell_1$-regularization
+- Regularization Path
+
+![reg_path](./book/docs/intro/svm_reg.svg)
