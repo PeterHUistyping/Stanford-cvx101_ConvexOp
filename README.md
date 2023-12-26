@@ -1,4 +1,6 @@
-# [CVXPY tutorial](https://cvxgrp.org/cvx_short_course)
+# Convex Optimization
+
+[CVXPY tutorial](https://cvxgrp.org/cvx_short_course)
 
 CVXPY is an open source Python-embedded modeling language for convex
 optimization problems. It lets you express your problem in a natural way that
@@ -6,7 +8,7 @@ follows the math, rather than in the restrictive standard form required by
 solvers. This tutorial will cover the basics of convex optimization, and how to
 use CVXPY to specify and solve convex optimization problems, with an emphasis on real-world applications. No prior knowledge of convex optimization is assumed.
 
-## Getting started
+## Set up
 
 1. Clone from CVXPY
 2. Install CVXPY following [these instructions](https://www.cvxpy.org/install/index.html).
@@ -38,6 +40,13 @@ See ``docs/python_intro``
 See ``docs/intro``
 
 - average hinge loss + $\ell_1$-regularization
+
+$$
+f(\beta,v) = (1/m) \sum_i \left(1 - y_i ( \beta^T x_i-v) \right)_+ + \lambda
+
+\| \beta\|_1
+$$
+
 - Regularization Path
 
 ![reg_path](./book/docs/intro/svm_reg.svg)
